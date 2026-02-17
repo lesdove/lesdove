@@ -28,7 +28,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[linkedin](https://www.linkedin.com/in/leslie-dove-57a8a89a/)
+[LinkedIn](https://www.linkedin.com/in/leslie-dove-57a8a89a/)
 
 </body>
 <!---
