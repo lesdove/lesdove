@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java Programming, and exploring Professional-Level Certifications in Databases and cybersecurity, and Networking for Cloud Computing
 - 💞️ I’m looking to collaborate on public health research, mental health research and user experience design
 - 📫 Reach me by email at ld109798@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I was the yougest UCLA graduate to work in my Department at UCLA
 
 <!---
 lesdove/lesdove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
