@@ -2,7 +2,7 @@
 # Welcome
 <body>
  
-<h2> Hi, I'm Leslie! Since switching careers from Education to Data Science, I am continually developing new skills and enthusiastically exploring how the public sector can benefit from my unique experience. </h2> <br>
+<h2> Hi, I'm Leslie! Since transitioning from Education to Data Science, I am continually developing new skills and enthusiastically exploring how the public sector can benefit from my unique experience. </h2> <br>
 
 - I’m currently learning Java and Python, and exploring Professional-Level Certifications in Databases and cybersecurity, and Networking for Cloud Computing
 - I’m looking to collaborate on CloudOps projects in public health, mental health and education
@@ -22,7 +22,7 @@
 - <b>Kubernetes App Deployment</b>
   - [Social Media Budgetting App](https://github.com/lesdove/SocialBudgetApp/blob/main/README.md) <b><i>
 - <b>Volunteer Services - Satic Website</b>
-  - [Cost Efficient webesite for Small Business](https://docs.google.com/document/d/1bf-L4jYc8mSCP4sTDM6RkMQKlXkMlraHE7f1-soz728/edit?usp=sharing)
+  - [Cost Efficient website for Small Business](https://docs.google.com/document/d/1bf-L4jYc8mSCP4sTDM6RkMQKlXkMlraHE7f1-soz728/edit?usp=sharing)
 
  
 <h2> 🤳 Connect with me:</h2>
