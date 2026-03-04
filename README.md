@@ -21,7 +21,7 @@
   - [Praciting AWS S3, DynamoDb, AWS Lambda and Python Programming](https://github.com/lesdove/TennisProject)
 - <b>Kubernetes App Deployment</b>
   - [Social Media Budgetting App](https://github.com/lesdove/SocialBudgetApp/blob/main/README.md) <b><i>
-- <b>Volunteer Services - Satic Website</b>
+- <b>Volunteer Services - Static Website</b>
   - [Cost Efficient website for Small Business](https://docs.google.com/document/d/1bf-L4jYc8mSCP4sTDM6RkMQKlXkMlraHE7f1-soz728/edit?usp=sharing)
 
  
